@@ -1,6 +1,6 @@
 .footer__link {
     text-decoration: none;
-    font-family: Inter;
+    font-family: 'Inter', ‘Arial’, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -19,6 +19,5 @@
         font-size: 24px;
         line-height: 24px;
         margin: 0;
-        padding: 0;
     }
 }
