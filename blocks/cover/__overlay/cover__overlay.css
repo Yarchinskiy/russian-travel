@@ -6,6 +6,7 @@
     justify-content: center;
     text-decoration: none;
     min-height: 740px;
+    z-index: 1;
 }
 
 .cover__overlay:hover {
